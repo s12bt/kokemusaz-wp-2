@@ -1,5 +1,9 @@
 こけむさズWordPress部第2回(2013/3/27) サンプルファイル
 
+スライド
+http://www.slideshare.net/s12bt/2word-press
+
+
 Facebook イベント 
 
 https://www.facebook.com/events/438555619560299/
